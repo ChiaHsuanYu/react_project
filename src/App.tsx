@@ -17,9 +17,14 @@ function App() {
         >
           Learn React
         </a>
+        <a
+          className="App-link"
+          href="./square"
+        >前往九宮格.</a>
       </header>
     </div>
   );
 }
 
 export default App;
+
