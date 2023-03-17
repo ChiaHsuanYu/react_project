@@ -5,8 +5,8 @@ const Home = () => (
   <label>Hello Home</label>
 );
 
-import About from './About';
-import Game from './Game';
+import About from './about/About';
+import Game from './game/Game';
 
 const routes = [
   {

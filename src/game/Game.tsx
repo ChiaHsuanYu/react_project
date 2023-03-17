@@ -1,5 +1,5 @@
 import React from 'react';
-import Clock from './Clock';
+import Clock from '../clock/Clock';
 import './index.css';
 // 井字遊戲
 // 定義類別
